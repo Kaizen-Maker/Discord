@@ -5,4 +5,4 @@ Ex: Meu canal no youtube.
 
 -Comando para rolar dado variável de (1,12) utilizando o comando: /dado
 
-py -3 script.py
+pip3 install -U discord.py[voice]
